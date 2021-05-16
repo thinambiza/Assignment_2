@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #Files to ignore
 
 
 .idea/
 *.iml/
 /target/
+=======
+.idea/
+>>>>>>> origin/main
