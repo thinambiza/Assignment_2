@@ -33,7 +33,7 @@ public class SetTest {
 
         dogTag.remove(35);
 
-        System.out.println("After removing a dog tag: " + dogTag);
+        System.out.println("After removing a dog tag" + dogTag);
 
     }
 
